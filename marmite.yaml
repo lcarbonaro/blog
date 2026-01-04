@@ -1,5 +1,5 @@
-name: Your Blog
-tagline: Things you talk about
+name: Some Blog
+tagline: This and that
 url: https://lcarbonaro.github.io/blog
 menu:
   - ["About", "about.html"]
