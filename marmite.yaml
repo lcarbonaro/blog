@@ -5,7 +5,7 @@ menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@lcarbonaro"]
+  - ["Follow me", "https://mstdn.ca/@lcarbonaro"]
   # - ["Github", "https://github.com/rochacbruno/marmite"]
 
 
