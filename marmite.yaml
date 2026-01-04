@@ -1,10 +1,10 @@
 name: Some Blog
-tagline: This and that
+tagline: This and that...
 url: https://lcarbonaro.github.io/blog
 menu:
   - ["About", "about.html"]
-  - ["Pages", "pages.html"]
-  - ["Tags", "tags.html"]
+  # - ["Pages", "pages.html"]
+  # - ["Tags", "tags.html"]
   - ["Follow me", "https://mastodon.social/@lcarbonaro"]
   # - ["Github", "https://github.com/rochacbruno/marmite"]
 
