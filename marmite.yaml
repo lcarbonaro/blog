@@ -1,12 +1,12 @@
-name: Some Blog
-tagline: This and that...
+name: random ramblings
+tagline: coding mostly ...
 url: https://lcarbonaro.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
-  - ["Follow me", "https://mstdn.ca/@lcarbonaro"]
-  # - ["Github", "https://github.com/rochacbruno/marmite"]
+  - ["Follow me", "https://bsky.app/profile/lescarbonaro.bsky.social"]
+  - ["Github", "https://github.com/lcarbonaro"]
 
 
 # More options available to customize the website
