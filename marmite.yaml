@@ -8,7 +8,7 @@ menu:
   - ["Follow me", "https://bsky.app/profile/lescarbonaro.bsky.social"]
   #- ["Github", "https://github.com/lcarbonaro"]
 file_mapping:
-  - source: favicon.ico
+  - source: ./favicon.ico
     dest: static/favicon.ico
 
 # More options available to customize the website
