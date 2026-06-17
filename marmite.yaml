@@ -6,8 +6,10 @@ menu:
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
   - ["Follow me", "https://bsky.app/profile/lescarbonaro.bsky.social"]
-  - ["Github", "https://github.com/lcarbonaro"]
-
+  #- ["Github", "https://github.com/lcarbonaro"]
+file_mapping:
+  - source: favicon.ico
+    dest: static/favicon.ico
 
 # More options available to customize the website
 # read on https://rochacbruno.github.io/marmite/tag/customization.html
